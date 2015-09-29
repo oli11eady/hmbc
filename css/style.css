@@ -61,7 +61,7 @@ li.listitem{
 	padding-bottom: 20px;
 	text-align: center;
 	border: 0px;
-	border-bottom: 4.5px solid #E5E4E4;
+	border-bottom: 4.5px solid white;
 	
 }
 
@@ -71,9 +71,7 @@ li.selected{
 
 
 li.listitem:hover{
-	background: #C447CD;
-	color: white;
-	border-bottom-color: #E5E4E4;
+	border-bottom-color:#C447CD;
 	webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
